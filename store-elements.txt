@@ -1,9 +1,1 @@
-1
-Stella
-Price: $5.99
-2
-Orb Jr
-Price: $2.99
-3
-Escuis
-Price: $4.50
+stella 5.99, orbjr 4.50, escuis 2.99, bigsand 9.99, smallsand 12.50
