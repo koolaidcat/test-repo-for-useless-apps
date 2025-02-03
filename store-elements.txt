@@ -1,1 +1,1 @@
-stella 5.99, orbjr 4.50, escuis 2.99, bigsand 9.99, smallsand 12.50
+KC-STELLA 5.99, KC-ORBJR 4.50, KC-ESCUIS 2.99, SC-BIGSAND 9.99, SC-SMALLSAND 12.50
